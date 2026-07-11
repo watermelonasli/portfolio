@@ -24,7 +24,7 @@ const technologies = [
 const projects = [
   {
     title: "Project One",
-    description: "Website media pembelajaran",
+    description: "Learning Resource Website",
     image: 'assets/img/mathlab.png',
     link: "#",
     year: "2025",
